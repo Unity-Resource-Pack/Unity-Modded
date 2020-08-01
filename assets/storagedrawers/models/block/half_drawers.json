@@ -3,20 +3,16 @@
 	"parent": "block/block",
 	"elements": [
 		{
-			"name": "Front Face",
+			"name": "front",
 			"from": [1, 1, 9],
 			"to": [15, 15, 16],
 			"faces": {
 				"north": {"uv": [1, 1, 15, 15], "texture": "#north"},
-				"east": {"uv": [0, 1, 7, 15], "texture": "#east", "cullface": "east"},
-				"south": {"uv": [1, 1, 15, 15], "texture": "#south", "cullface": "south"},
-				"west": {"uv": [9, 1, 16, 15], "texture": "#west", "cullface": "west"},
-				"up": {"uv": [1, 9, 15, 16], "texture": "#up", "cullface": "up"},
-				"down": {"uv": [1, 0, 15, 7], "texture": "#down", "cullface": "down"}
+				"south": {"uv": [1, 1, 15, 15], "texture": "#south", "cullface": "south"}
 			}
 		},
 		{
-			"name": "Top Edge",
+			"name": "trim_top",
 			"from": [0, 15, 8],
 			"to": [16, 16, 16],
 			"faces": {
@@ -29,7 +25,7 @@
 			}
 		},
 		{
-			"name": "Bottom Edge",
+			"name": "trim_bottom",
 			"from": [0, 0, 8],
 			"to": [16, 1, 16],
 			"faces": {
@@ -42,7 +38,7 @@
 			}
 		},
 		{
-			"name": "Right Edge",
+			"name": "trim_west",
 			"from": [0, 1, 8],
 			"to": [1, 15, 16],
 			"faces": {
@@ -53,7 +49,7 @@
 			}
 		},
 		{
-			"name": "Left Edge",
+			"name": "trim_east",
 			"from": [15, 1, 8],
 			"to": [16, 15, 16],
 			"faces": {
