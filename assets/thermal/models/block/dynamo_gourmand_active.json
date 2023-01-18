@@ -1,9 +1,0 @@
-{
-  "parent": "thermal:block/dynamo_gourmand",
-  "textures": {
-    "top": "thermal:block/dynamos/dynamo_gourmand_active",
-    "side": "thermal:block/dynamos/dynamo_gourmand_side_active",
-    "bottom": "thermal:block/dynamos/dynamo_gourmand_bottom",
-    "coil": "thermal:block/dynamos/dynamo_coil_rf_active"
-  }
-}

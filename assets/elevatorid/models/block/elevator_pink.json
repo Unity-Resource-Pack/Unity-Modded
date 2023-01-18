@@ -1,6 +1,0 @@
-{
-  "parent": "elevatorid:block/elevator",
-  "textures": {
-    "color": "elevatorid:block/elevator_pink"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "thermal:block/dynamo_base",
-  "textures": {
-    "top": "thermal:block/dynamos/dynamo_disenchantment",
-    "side": "thermal:block/dynamos/dynamo_disenchantment_side",
-    "bottom": "thermal:block/dynamos/dynamo_disenchantment_bottom"
-  }
-}
