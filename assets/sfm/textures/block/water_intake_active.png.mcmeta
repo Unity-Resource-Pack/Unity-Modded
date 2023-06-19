@@ -1,0 +1,10 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "CTM",
+		"layer": "SOLID",
+		"textures": [
+			"sfm:block/water_intake_active_ctm"
+		]
+	}
+}

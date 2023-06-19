@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "sfm:block/printing_press_bottom",
+    "particle": "sfm:block/printing_press_top",
+    "side": "sfm:block/printing_press_side",
+    "top": "sfm:block/printing_press_top"
+  }
+}
