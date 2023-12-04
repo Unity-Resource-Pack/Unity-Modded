@@ -21,8 +21,8 @@
 		},
 		{
 			"name": "color",
-			"from": [2, 16.005, 2],
-			"to": [14, 16.005, 14],
+			"from": [2, 16.05, 2],
+			"to": [14, 16.05, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 24, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 12, 0], "texture": "#color"},
